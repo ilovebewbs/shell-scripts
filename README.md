@@ -6,7 +6,7 @@ So i found myself being into shell scripting and automating stuff a bit too much
 **Current scripts**
 
 `weather.sh`
-![a gif](weather.gif)
+![a gif](weather/weather.gif)
 
  a tiny shell script to output your current weather with a cute rainbow colors text
 
